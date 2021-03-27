@@ -1,0 +1,29 @@
+
+img{
+    border:solid;
+    margin-left: 50px;
+}
+.camel{
+    border: solid;
+    border-color: white;
+}
+.panda{
+    border:solid;
+    border-color: white;
+}
+.teddy{
+    border:solid;
+    border-color: white;
+}
+p{
+    color: white;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h4{
+    color:red;
+}
